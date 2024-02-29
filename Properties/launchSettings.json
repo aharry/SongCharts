@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SongCharts": {
+      "commandName": "Project",
+      "commandLineArgs": "-if \"C:\\Users\\Admin\\Documents\\SongMaster\\Songs\\4K Video Downloader+\\Running on Empty.song\" -sb 0 -lb 4 -s true"
+    }
+  }
+}
